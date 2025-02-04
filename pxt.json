@@ -1,5 +1,6 @@
 {
     "name": "蓝牙最新测试",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
